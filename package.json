@@ -8,9 +8,12 @@
     "build-styles": "tailwindcss -i ./src/styles/index.css -o ./src/styles/idsk3_theme.css -m",
     "deploy": "npm run rollup && npm publish"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.slovenskoit.sk:components/shared-web-libs/esvk_web_lib_idsk_core.git"
+    "url": "https://github.com/martincivan/esvk_web_lib_idsk3_core.git"
   },
   "author": "Slovensko IT",
   "license": "GPL-3.0-or-later",
