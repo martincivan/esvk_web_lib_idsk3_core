@@ -9,7 +9,7 @@
     "deploy": "npm run rollup && npm publish"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@martincivan"
+    "registry": "https://npm.pkg.github.com/@martincivan/esvk_web_lib_idsk3_core"
   },
   "repository": "https://github.com/martincivan/esvk_web_lib_idsk3_core",
   "author": "Slovensko IT",
