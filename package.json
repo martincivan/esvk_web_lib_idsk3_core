@@ -11,10 +11,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/martincivan/esvk_web_lib_idsk3_core.git"
-  },
+  "repository": "https://github.com/martincivan/esvk_web_lib_idsk3_core",
   "author": "Slovensko IT",
   "license": "GPL-3.0-or-later",
   "bugs": {
